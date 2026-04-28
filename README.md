@@ -1,21 +1,20 @@
 <a id="readme-top"></a>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&text=AURA%20MAP&fontColor=ffffff&fontSize=52&desc=工业门禁可视化管理系统&descSize=20&descAlignY=75)
-
+<!-- 徽章置顶 -->
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML-单文件应用-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-原生无框架-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SVG](https://img.shields.io/badge/SVG-矢量底图-FFB13B?style=for-the-badge&logo=svg&logoColor=white)
-![AI协作](https://img.shields.io/badge/开发方式-AI协作编程-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/部署-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-矢量底图-7E97B8?style=for-the-badge&logo=svg&logoColor=white)
+![AI协作](https://img.shields.io/badge/开发方式-AI协作编程-D4956A?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/部署-GitHub_Pages-4E4942?style=for-the-badge&logo=githubpages&logoColor=white)
 
 </div>
 
-<br />
+<!-- Banner 作为标题背景 -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,15,20,25&height=220&text=🗺️%20AURA%20MAP&fontColor=EAE7E2&fontSize=52&fontAlignY=40&desc=工业门禁可视化管理系统&descColor=D4C5B8&descSize=20&descAlignY=65&section=header)
+
 <div align="center">
-  <h1>🗺️ AURA MAP</h1>
-  <h3>工业门禁可视化管理系统</h3>
   <p>
     一款让工厂门禁信息「看得见、找得到、发得出」的轻量工具<br/>
     由业务人员主导 · AI 协作开发 · 零代码基础完成
@@ -203,8 +202,11 @@
 
 ---
 
-![GitHub](https://img.shields.io/badge/GitHub-daidaimoon-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-daidaimoon-4E4942?style=for-the-badge&logo=github&logoColor=white)
 
 项目地址：[https://github.com/daidaimoon/AURA-MAP](https://github.com/daidaimoon/AURA-MAP)
+
+<!-- 底部波浪 -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,15,20,25&height=100&section=footer)
 
 <p align="right">(<a href="#readme-top">↑ 返回顶部</a>)</p>
